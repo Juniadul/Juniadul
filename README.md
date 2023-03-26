@@ -2,7 +2,6 @@
 
 # Hi there 👋, my name is Juniadul
 ## I am UI/UX designer & Web Developer
-![I am UI/UX designer & Web Developer](https://pbs.twimg.com/profile_banners/1242901118742482944/1679819608/1500x500)
 
 Hey, I design interactive and responsive UI for apps and websites. I’ve designed around 30+ UI for apps and websites so far.Also, I make WordPress websites. 
 I've mainly experience in:
