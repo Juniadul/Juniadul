@@ -11,10 +11,10 @@ Designing Social media content. ( Facebook, LinkedIn, Instagram)
 WordPress Websites
 UI/UX Design -Web Development
 
-Skills: C/C++/ HTML / CSS/PHP/Python
+Skills: C/C++/ HTML / CSS/PHP/JAvaScript/Python
 
-- 🔭 I’m currently working on Web Development,UI/UX,Image Processing 
-- 🌱 I’m currently learning Javascript,Python 
+- 🔭 I’m currently working on Software Designing, Web Development, Generative AI, Image Processing 
+- 🌱 I’m currently learning Python & Machine Learning
 - 👯 I’m looking to collaborate on Github 
 
 
