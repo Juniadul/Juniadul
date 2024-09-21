@@ -1,5 +1,4 @@
 
-![I am UI/UX designer & Web Developer](https://pbs.twimg.com/profile_banners/1242901118742482944/1679819608/1500x500)
 
 
 # Hi there 👋, my name is  Juniadul
