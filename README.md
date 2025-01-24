@@ -1,15 +1,8 @@
+# Hi there 👋, my name is  Md. Juniadul Islam
+# Software Developer
 
 
-
-# Hi there 👋, my name is  Juniadul
-# I am UI/UX designer & Web Developer
-
-
-Hey, I design interactive and responsive UI for apps and websites. I’ve designed around 30+ UI for apps and websites so far.Also, I make WordPress websites. I've mainly experience in:
-
-Designing Social media content. ( Facebook, LinkedIn, Instagram)
-WordPress Websites
-UI/UX Design -Web Development
+Hey, I am a software developer specializing in building web and mobile applications, with a strong focus on frontend development. Additionally, I developed websites and create design social media content for platforms like Facebook, LinkedIn, and Instagram.
 
 Skills: C/C++/ HTML / CSS/PHP/JAvaScript/Python
 
